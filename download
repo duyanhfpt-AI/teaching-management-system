@@ -1,0 +1,11 @@
+# Dữ liệu người dùng được tạo cục bộ
+fap_demo_data.json
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
